@@ -1,0 +1,1382 @@
+[
+    {
+        "instrId": "IT0001233417",
+        "venueSystem": "AFF",
+        "symbol": "A2A.MI",
+        "description": "A2A"
+    },
+    {
+        "instrId": "IT0005445280",
+        "venueSystem": "AFF",
+        "symbol": "ABT.MI",
+        "description": "ABITARE IN"
+    },
+    {
+        "instrId": "IT0001207098",
+        "venueSystem": "AFF",
+        "symbol": "ACE.MI",
+        "description": "ACEA"
+    },
+    {
+        "instrId": "IT0001382024",
+        "venueSystem": "AFF",
+        "symbol": "AC5.MI",
+        "description": "ACINQUE"
+    },
+    {
+        "instrId": "IT0001384590",
+        "venueSystem": "AFF",
+        "symbol": "AEF.MI",
+        "description": "AEFFE"
+    },
+    {
+        "instrId": "IT0001006128",
+        "venueSystem": "AFF",
+        "symbol": "ADB.MI",
+        "description": "AEROPORTO G MARCONI"
+    },
+    {
+        "instrId": "IT0004720733",
+        "venueSystem": "AFF",
+        "symbol": "ARN.MI",
+        "description": "ALERION CLEANPOWER"
+    },
+    {
+        "instrId": "IT0004359037",
+        "venueSystem": "AFF",
+        "symbol": "ALW.MI",
+        "description": "ALGOWATT"
+    },
+    {
+        "instrId": "IT0005314635",
+        "venueSystem": "AFF",
+        "symbol": "ALK.MI",
+        "description": "ALKEMY"
+    },
+    {
+        "instrId": "IT0004056880",
+        "venueSystem": "AFF",
+        "symbol": "AMP.MI",
+        "description": "AMPLIFON"
+    },
+    {
+        "instrId": "IT0004998065",
+        "venueSystem": "AFF",
+        "symbol": "ANIM.MI",
+        "description": "ANIMA HOLDING"
+    },
+    {
+        "instrId": "IT0005366601",
+        "venueSystem": "AFF",
+        "symbol": "AV.MI",
+        "description": "ANTARES VISION"
+    },
+    {
+        "instrId": "IT0005241192",
+        "venueSystem": "AFF",
+        "symbol": "ECNL.MI",
+        "description": "AQUAFIL"
+    },
+    {
+        "instrId": "NL0015000N33",
+        "venueSystem": "AFF",
+        "symbol": "ARIS.MI",
+        "description": "ARISTON HOLD"
+    },
+    {
+        "instrId": "IT0004093263",
+        "venueSystem": "AFF",
+        "symbol": "ASC.MI",
+        "description": "ASCOPIAVE"
+    },
+    {
+        "instrId": "IT0000084043",
+        "venueSystem": "AFF",
+        "symbol": "AUTME.MI",
+        "description": "AUTOSTRADE MERID"
+    },
+    {
+        "instrId": "IT0005119810",
+        "venueSystem": "AFF",
+        "symbol": "AVIO.MI",
+        "description": "AVIO"
+    },
+    {
+        "instrId": "IT0003261697",
+        "venueSystem": "AFF",
+        "symbol": "AZM.MI",
+        "description": "AZIMUT HOLDING"
+    },
+    {
+        "instrId": "IT0001268561",
+        "venueSystem": "AFF",
+        "symbol": "BEC.MI",
+        "description": "B&C SPEAKERS"
+    },
+    {
+        "instrId": "IT0005187460",
+        "venueSystem": "AFF",
+        "symbol": "BFG.MI",
+        "description": "B.F."
+    },
+    {
+        "instrId": "IT0001031084",
+        "venueSystem": "AFF",
+        "symbol": "BGN.MI",
+        "description": "BANCA GENERALI"
+    },
+    {
+        "instrId": "IT0003188064",
+        "venueSystem": "AFF",
+        "symbol": "IF.MI",
+        "description": "BANCA IFIS"
+    },
+    {
+        "instrId": "IT0004776628",
+        "venueSystem": "AFF",
+        "symbol": "BMED.MI",
+        "description": "BANCA MEDIOLANUM"
+    },
+    {
+        "instrId": "IT0005508921",
+        "venueSystem": "AFF",
+        "symbol": "BMPS.MI",
+        "description": "BANCA MPS RAGGR"
+    },
+    {
+        "instrId": "IT0001073045",
+        "venueSystem": "AFF",
+        "symbol": "PRO.MI",
+        "description": "BANCA PROFILO"
+    },
+    {
+        "instrId": "IT0003173629",
+        "venueSystem": "AFF",
+        "symbol": "BST.MI",
+        "description": "BANCA SISTEMA"
+    },
+    {
+        "instrId": "IT0005218380",
+        "venueSystem": "AFF",
+        "symbol": "BAMI.MI",
+        "description": "BANCO BPM"
+    },
+    {
+        "instrId": "IT0001033700",
+        "venueSystem": "AFF",
+        "symbol": "BAN.MI",
+        "description": "BASICNET"
+    },
+    {
+        "instrId": "IT0004412497",
+        "venueSystem": "AFF",
+        "symbol": "B.MI",
+        "description": "BASTOGI"
+    },
+    {
+        "instrId": "IT0001041000",
+        "venueSystem": "AFF",
+        "symbol": "BDB.MI",
+        "description": "BCO DESIO E BRIANZA"
+    },
+    {
+        "instrId": "IT0001223277",
+        "venueSystem": "AFF",
+        "symbol": "BE.MI",
+        "description": "BEGHELLI"
+    },
+    {
+        "instrId": "IT0005244402",
+        "venueSystem": "AFF",
+        "symbol": "BFF.MI",
+        "description": "BFF BANK"
+    },
+    {
+        "instrId": "IT0004222102",
+        "venueSystem": "AFF",
+        "symbol": "BIA.MI",
+        "description": "BIALETTI INDUSTRIE"
+    },
+    {
+        "instrId": "IT0003097257",
+        "venueSystem": "AFF",
+        "symbol": "BSS.MI",
+        "description": "BIESSE"
+    },
+    {
+        "instrId": "IT0005516130",
+        "venueSystem": "AFF",
+        "symbol": "BIE.MI",
+        "description": "BIOERA"
+    },
+    {
+        "instrId": "IT0003217335",
+        "venueSystem": "AFF",
+        "symbol": "BO.MI",
+        "description": "BORGOSESIA"
+    },
+    {
+        "instrId": "IT0000784196",
+        "venueSystem": "AFF",
+        "symbol": "BPSO.MI",
+        "description": "BP SONDRIO"
+    },
+    {
+        "instrId": "IT0000066123",
+        "venueSystem": "AFF",
+        "symbol": "BPE.MI",
+        "description": "BPER BANCA"
+    },
+    {
+        "instrId": "IT0005252728",
+        "venueSystem": "AFF",
+        "symbol": "BRE.MI",
+        "description": "BREMBO"
+    },
+    {
+        "instrId": "IT0000066180",
+        "venueSystem": "AFF",
+        "symbol": "BRI.MI",
+        "description": "BRIOSCHI"
+    },
+    {
+        "instrId": "IT0004764699",
+        "venueSystem": "AFF",
+        "symbol": "BC.MI",
+        "description": "BRUNELLO CUCINELLI"
+    },
+    {
+        "instrId": "IT0001347308",
+        "venueSystem": "AFF",
+        "symbol": "BZU.MI",
+        "description": "BUZZI UNICEM"
+    },
+    {
+        "instrId": "IT0004329733",
+        "venueSystem": "AFF",
+        "symbol": "CAI.MI",
+        "description": "CAIRO COMMUNICATION"
+    },
+    {
+        "instrId": "IT0003025019",
+        "venueSystem": "AFF",
+        "symbol": "CLF.MI",
+        "description": "CALEFFI"
+    },
+    {
+        "instrId": "IT0003127930",
+        "venueSystem": "AFF",
+        "symbol": "CALT.MI",
+        "description": "CALTAGIRONE"
+    },
+    {
+        "instrId": "IT0001472171",
+        "venueSystem": "AFF",
+        "symbol": "CED.MI",
+        "description": "CALTAGIRONE EDITORE"
+    },
+    {
+        "instrId": "NL0015435975",
+        "venueSystem": "AFF",
+        "symbol": "CPR.MI",
+        "description": "CAMPARI"
+    },
+    {
+        "instrId": "IT0005331019",
+        "venueSystem": "AFF",
+        "symbol": "CRL.MI",
+        "description": "CAREL INDUSTR"
+    },
+    {
+        "instrId": "IT0005244618",
+        "venueSystem": "AFF",
+        "symbol": "CELL.MI",
+        "description": "CELLULARLINE"
+    },
+    {
+        "instrId": "IT0001128047",
+        "venueSystem": "AFF",
+        "symbol": "CMB.MI",
+        "description": "CEMBRE"
+    },
+    {
+        "instrId": "NL0013995087",
+        "venueSystem": "AFF",
+        "symbol": "CEM.MI",
+        "description": "CEMENTIR HOLD"
+    },
+    {
+        "instrId": "IT0003023980",
+        "venueSystem": "AFF",
+        "symbol": "CLI.MI",
+        "description": "CENTRALE LATTE IT"
+    },
+    {
+        "instrId": "IT0001446613",
+        "venueSystem": "AFF",
+        "symbol": "CHL.MI",
+        "description": "CHL"
+    },
+    {
+        "instrId": "IT0000070786",
+        "venueSystem": "AFF",
+        "symbol": "CIR.MI",
+        "description": "CIR"
+    },
+    {
+        "instrId": "IT0005466153",
+        "venueSystem": "AFF",
+        "symbol": "CNS.MI",
+        "description": "CIVITANAVI SYS N-S"
+    },
+    {
+        "instrId": "IT0005117848",
+        "venueSystem": "AFF",
+        "symbol": "CLE.MI",
+        "description": "CLASS EDITORI"
+    },
+    {
+        "instrId": "NL0010545661",
+        "venueSystem": "AFF",
+        "symbol": "CNHI.MI",
+        "description": "CNH INDUSTRIAL"
+    },
+    {
+        "instrId": "IT0005246191",
+        "venueSystem": "AFF",
+        "symbol": "COM.MI",
+        "description": "COMER INDUSTR"
+    },
+    {
+        "instrId": "IT0003389522",
+        "venueSystem": "AFF",
+        "symbol": "CIA.MI",
+        "description": "COMPAGNIA IMM AZ"
+    },
+    {
+        "instrId": "IT0004105653",
+        "venueSystem": "AFF",
+        "symbol": "CNF.MI",
+        "description": "CONAFI"
+    },
+    {
+        "instrId": "IT0003121677",
+        "venueSystem": "AFF",
+        "symbol": "CE.MI",
+        "description": "CREDITO EMILIANO"
+    },
+    {
+        "instrId": "IT0001127874",
+        "venueSystem": "AFF",
+        "symbol": "CSP.MI",
+        "description": "CSP INTERNATIONAL"
+    },
+    {
+        "instrId": "IT0005412504",
+        "venueSystem": "AFF",
+        "symbol": "CY4.MI",
+        "description": "CY4GATE"
+    },
+    {
+        "instrId": "LU2592315662",
+        "venueSystem": "AFF",
+        "symbol": "DIS.MI",
+        "description": "DAMICO INTERNATION"
+    },
+    {
+        "instrId": "IT0000076502",
+        "venueSystem": "AFF",
+        "symbol": "DAN.MI",
+        "description": "DANIELI & C"
+    },
+    {
+        "instrId": "IT0000076486",
+        "venueSystem": "AFF",
+        "symbol": "DANR.MI",
+        "description": "DANIELI & C. RSP"
+    },
+    {
+        "instrId": "IT0004053440",
+        "venueSystem": "AFF",
+        "symbol": "DAL.MI",
+        "description": "DATALOGIC"
+    },
+    {
+        "instrId": "IT0003115950",
+        "venueSystem": "AFF",
+        "symbol": "DLG.MI",
+        "description": "DE LONGHI"
+    },
+    {
+        "instrId": "IT0003492391",
+        "venueSystem": "AFF",
+        "symbol": "DIA.MI",
+        "description": "DIASORIN"
+    },
+    {
+        "instrId": "IT0005347429",
+        "venueSystem": "AFF",
+        "symbol": "DGV.MI",
+        "description": "DIGIT VAL"
+    },
+    {
+        "instrId": "IT0001469995",
+        "venueSystem": "AFF",
+        "symbol": "DIB.MI",
+        "description": "DIGITAL BROS"
+    },
+    {
+        "instrId": "IT0001044996",
+        "venueSystem": "AFF",
+        "symbol": "DOV.MI",
+        "description": "DOVALUE"
+    },
+    {
+        "instrId": "IT0003372205",
+        "venueSystem": "AFF",
+        "symbol": "EDNR.MI",
+        "description": "EDISON RNC"
+    },
+    {
+        "instrId": "IT0001498234",
+        "venueSystem": "AFF",
+        "symbol": "EEMS.MI",
+        "description": "EEMS"
+    },
+    {
+        "instrId": "IT0005453250",
+        "venueSystem": "AFF",
+        "symbol": "ELN.MI",
+        "description": "EL.EN."
+    },
+    {
+        "instrId": "IT0003404214",
+        "venueSystem": "AFF",
+        "symbol": "ELC.MI",
+        "description": "ELICA"
+    },
+    {
+        "instrId": "IT0001237053",
+        "venueSystem": "AFF",
+        "symbol": "EM.MI",
+        "description": "EMAK"
+    },
+    {
+        "instrId": "IT0005176406",
+        "venueSystem": "AFF",
+        "symbol": "ENAV.MI",
+        "description": "ENAV"
+    },
+    {
+        "instrId": "IT0003128367",
+        "venueSystem": "AFF",
+        "symbol": "ENEL.MI",
+        "description": "ENEL"
+    },
+    {
+        "instrId": "IT0004356751",
+        "venueSystem": "AFF",
+        "symbol": "ENV.MI",
+        "description": "ENERVIT"
+    },
+    {
+        "instrId": "IT0003132476",
+        "venueSystem": "AFF",
+        "symbol": "ENI.MI",
+        "description": "ENI"
+    },
+    {
+        "instrId": "IT0005569477",
+        "venueSystem": "AFF",
+        "symbol": "EPRC.MI",
+        "description": "EPRICE"
+    },
+    {
+        "instrId": "IT0005312027",
+        "venueSystem": "AFF",
+        "symbol": "EQUI.MI",
+        "description": "EQUITA GROUP"
+    },
+    {
+        "instrId": "IT0001157020",
+        "venueSystem": "AFF",
+        "symbol": "ERG.MI",
+        "description": "ERG"
+    },
+    {
+        "instrId": "IT0003850929",
+        "venueSystem": "AFF",
+        "symbol": "PRT.MI",
+        "description": "ESPRINET"
+    },
+    {
+        "instrId": "IT0004818297",
+        "venueSystem": "AFF",
+        "symbol": "EUK.MI",
+        "description": "EUKEDOS"
+    },
+    {
+        "instrId": "NL0015000K93",
+        "venueSystem": "AFF",
+        "symbol": "ECMPM.MI",
+        "description": "EUROCOM PTY"
+    },
+    {
+        "instrId": "IT0005527616",
+        "venueSystem": "AFF",
+        "symbol": "EGLA.MI",
+        "description": "EUROGRP LAM"
+    },
+    {
+        "instrId": "IT0003895668",
+        "venueSystem": "AFF",
+        "symbol": "ETH.MI",
+        "description": "EUROTECH"
+    },
+    {
+        "instrId": "IT0001477402",
+        "venueSystem": "AFF",
+        "symbol": "XPR.MI",
+        "description": "EXPRIVIA"
+    },
+    {
+        "instrId": "NL0011585146",
+        "venueSystem": "AFF",
+        "symbol": "RACE.MI",
+        "description": "FERRARI"
+    },
+    {
+        "instrId": "IT0005383291",
+        "venueSystem": "AFF",
+        "symbol": "YACHT.MI",
+        "description": "FERRETTI"
+    },
+    {
+        "instrId": "IT0001498481",
+        "venueSystem": "AFF",
+        "symbol": "FDA.MI",
+        "description": "FIDIA"
+    },
+    {
+        "instrId": "IT0003365613",
+        "venueSystem": "AFF",
+        "symbol": "FM.MI",
+        "description": "FIERA MILANO"
+    },
+    {
+        "instrId": "IT0004967292",
+        "venueSystem": "AFF",
+        "symbol": "FILA.MI",
+        "description": "FILA"
+    },
+    {
+        "instrId": "IT0001415246",
+        "venueSystem": "AFF",
+        "symbol": "FCT.MI",
+        "description": "FINCANTIERI"
+    },
+    {
+        "instrId": "IT0005215329",
+        "venueSystem": "AFF",
+        "symbol": "FF.MI",
+        "description": "FINE FOODS"
+    },
+    {
+        "instrId": "IT0000072170",
+        "venueSystem": "AFF",
+        "symbol": "FBK.MI",
+        "description": "FINECOBANK"
+    },
+    {
+        "instrId": "IT0000060886",
+        "venueSystem": "AFF",
+        "symbol": "FNM.MI",
+        "description": "FNM"
+    },
+    {
+        "instrId": "IT0001487047",
+        "venueSystem": "AFF",
+        "symbol": "BWZ.MI",
+        "description": "FULLSIX"
+    },
+    {
+        "instrId": "IT0005023038",
+        "venueSystem": "AFF",
+        "symbol": "GAB.MI",
+        "description": "GABETTI PROPERTY SOL"
+    },
+    {
+        "instrId": "IT0005345233",
+        "venueSystem": "AFF",
+        "symbol": "GHC.MI",
+        "description": "GAROFALO H CARE"
+    },
+    {
+        "instrId": "IT0004098510",
+        "venueSystem": "AFF",
+        "symbol": "GSP.MI",
+        "description": "GAS PLUS"
+    },
+    {
+        "instrId": "IT0003203947",
+        "venueSystem": "AFF",
+        "symbol": "GE.MI",
+        "description": "GEFRAN"
+    },
+    {
+        "instrId": "IT0005144784",
+        "venueSystem": "AFF",
+        "symbol": "GF.MI",
+        "description": "GENERALFINANCE"
+    },
+    {
+        "instrId": "IT0000062072",
+        "venueSystem": "AFF",
+        "symbol": "G.MI",
+        "description": "GENERALI"
+    },
+    {
+        "instrId": "IT0003697080",
+        "venueSystem": "AFF",
+        "symbol": "GEO.MI",
+        "description": "GEOX"
+    },
+    {
+        "instrId": "IT0004942915",
+        "venueSystem": "AFF",
+        "symbol": "GEQ.MI",
+        "description": "GEQUITY"
+    },
+    {
+        "instrId": "IT0005122400",
+        "venueSystem": "AFF",
+        "symbol": "GG.MI",
+        "description": "GIGLIO GROUP"
+    },
+    {
+        "instrId": "IT0005221517",
+        "venueSystem": "AFF",
+        "symbol": "GPI.MI",
+        "description": "GPI"
+    },
+    {
+        "instrId": "IT0001042297",
+        "venueSystem": "AFF",
+        "symbol": "GTH.MI",
+        "description": "GREENTHESIS"
+    },
+    {
+        "instrId": "IT0005411209",
+        "venueSystem": "AFF",
+        "symbol": "GVS.MI",
+        "description": "GVS"
+    },
+    {
+        "instrId": "IT0001250932",
+        "venueSystem": "AFF",
+        "symbol": "HER.MI",
+        "description": "HERA"
+    },
+    {
+        "instrId": "IT0005108219",
+        "venueSystem": "AFF",
+        "symbol": "IGV.MI",
+        "description": "I GRANDI VIAGGI"
+    },
+    {
+        "instrId": "IT0005322612",
+        "venueSystem": "AFF",
+        "symbol": "IGD.MI",
+        "description": "IGD SIIQ"
+    },
+    {
+        "instrId": "IT0005283111",
+        "venueSystem": "AFF",
+        "symbol": "S24.MI",
+        "description": "IL SOLE 24 ORE"
+    },
+    {
+        "instrId": "IT0005359192",
+        "venueSystem": "AFF",
+        "symbol": "ILTY.MI",
+        "description": "ILLIMITY BANK"
+    },
+    {
+        "instrId": "IT0001413837",
+        "venueSystem": "AFF",
+        "symbol": "IMS.MI",
+        "description": "IMMSI"
+    },
+    {
+        "instrId": "IT0005186371",
+        "venueSystem": "AFF",
+        "symbol": "DNR.MI",
+        "description": "IN DE NORA"
+    },
+    {
+        "instrId": "IT0005245508",
+        "venueSystem": "AFF",
+        "symbol": "INDB.MI",
+        "description": "INDEL B"
+    },
+    {
+        "instrId": "IT0005455875",
+        "venueSystem": "AFF",
+        "symbol": "ICOS.MI",
+        "description": "INTERCOS"
+    },
+    {
+        "instrId": "IT0001078911",
+        "venueSystem": "AFF",
+        "symbol": "IP.MI",
+        "description": "INTERPUMP GROUP"
+    },
+    {
+        "instrId": "IT0000072618",
+        "venueSystem": "AFF",
+        "symbol": "ISP.MI",
+        "description": "INTESA SANPAOLO"
+    },
+    {
+        "instrId": "IT0005090300",
+        "venueSystem": "AFF",
+        "symbol": "INW.MI",
+        "description": "INWIT"
+    },
+    {
+        "instrId": "IT0001077780",
+        "venueSystem": "AFF",
+        "symbol": "IRC.MI",
+        "description": "IRCE"
+    },
+    {
+        "instrId": "IT0003027817",
+        "venueSystem": "AFF",
+        "symbol": "IRE.MI",
+        "description": "IREN"
+    },
+    {
+        "instrId": "IT0003411417",
+        "venueSystem": "AFF",
+        "symbol": "IEG.MI",
+        "description": "IT EXHIBIT GRP"
+    },
+    {
+        "instrId": "IT0003057624",
+        "venueSystem": "AFF",
+        "symbol": "ITW.MI",
+        "description": "IT WAY"
+    },
+    {
+        "instrId": "IT0005211237",
+        "venueSystem": "AFF",
+        "symbol": "IG.MI",
+        "description": "ITALGAS"
+    },
+    {
+        "instrId": "IT0005543480",
+        "venueSystem": "AFF",
+        "symbol": "IDB.MI",
+        "description": "ITALIAN DES BR"
+    },
+    {
+        "instrId": "IT0005253205",
+        "venueSystem": "AFF",
+        "symbol": "ITM.MI",
+        "description": "ITALMOBILIARE"
+    },
+    {
+        "instrId": "NL0015000LU4",
+        "venueSystem": "AFF",
+        "symbol": "IVG.MI",
+        "description": "IVECO GRP"
+    },
+    {
+        "instrId": "LU0556041001",
+        "venueSystem": "AFF",
+        "symbol": "IVS.MI",
+        "description": "IVS GROUP"
+    },
+    {
+        "instrId": "IT0000336518",
+        "venueSystem": "AFF",
+        "symbol": "JUVE.MI",
+        "description": "JUVENTUS FC"
+    },
+    {
+        "instrId": "IT0004552359",
+        "venueSystem": "AFF",
+        "symbol": "KME.MI",
+        "description": "KME GROUP"
+    },
+    {
+        "instrId": "IT0004552367",
+        "venueSystem": "AFF",
+        "symbol": "KMER.MI",
+        "description": "KME GRP RISP"
+    },
+    {
+        "instrId": "IT0004210289",
+        "venueSystem": "AFF",
+        "symbol": "LNDR.MI",
+        "description": "LANDI RENZO"
+    },
+    {
+        "instrId": "IT0003621783",
+        "venueSystem": "AFF",
+        "symbol": "SSL.MI",
+        "description": "LAZIO"
+    },
+    {
+        "instrId": "IT0003856405",
+        "venueSystem": "AFF",
+        "symbol": "LDO.MI",
+        "description": "LEONARDO"
+    },
+    {
+        "instrId": "IT0005541336",
+        "venueSystem": "AFF",
+        "symbol": "LTMC.MI",
+        "description": "LOTTOMATICA GR"
+    },
+    {
+        "instrId": "IT0005107492",
+        "venueSystem": "AFF",
+        "symbol": "LUVE.MI",
+        "description": "LUVE"
+    },
+    {
+        "instrId": "IT0005013013",
+        "venueSystem": "AFF",
+        "symbol": "LVEN.MI",
+        "description": "LVENTURE GROUP"
+    },
+    {
+        "instrId": "IT0004931058",
+        "venueSystem": "AFF",
+        "symbol": "MAIRE.MI",
+        "description": "MAIRE TECNIMONT"
+    },
+    {
+        "instrId": "IT0003428445",
+        "venueSystem": "AFF",
+        "symbol": "MARR.MI",
+        "description": "MARR"
+    },
+    {
+        "instrId": "IT0000062957",
+        "venueSystem": "AFF",
+        "symbol": "MB.MI",
+        "description": "MEDIOBANCA"
+    },
+    {
+        "instrId": "IT0005481855",
+        "venueSystem": "AFF",
+        "symbol": "MET.MI",
+        "description": "MET.EXTRA GROUP"
+    },
+    {
+        "instrId": "NL0015001OI1",
+        "venueSystem": "AFF",
+        "symbol": "MFEA.MI",
+        "description": "MFE-MEDIA RG-A"
+    },
+    {
+        "instrId": "NL0015001OJ9",
+        "venueSystem": "AFF",
+        "symbol": "MFEB.MI",
+        "description": "MFE-MEDIA RG-B"
+    },
+    {
+        "instrId": "IT0001447348",
+        "venueSystem": "AFF",
+        "symbol": "MIT.MI",
+        "description": "MITTEL"
+    },
+    {
+        "instrId": "IT0004965148",
+        "venueSystem": "AFF",
+        "symbol": "MONC.MI",
+        "description": "MONCLER"
+    },
+    {
+        "instrId": "IT0001469383",
+        "venueSystem": "AFF",
+        "symbol": "MN.MI",
+        "description": "MONDADORI EDITORE"
+    },
+    {
+        "instrId": "IT0001447785",
+        "venueSystem": "AFF",
+        "symbol": "MTV.MI",
+        "description": "MONDO TV"
+    },
+    {
+        "instrId": "IT0000066016",
+        "venueSystem": "AFF",
+        "symbol": "MON.MI",
+        "description": "MONRIF"
+    },
+    {
+        "instrId": "IT0004195308",
+        "venueSystem": "AFF",
+        "symbol": "MOL.MI",
+        "description": "MUTUIONLINE"
+    },
+    {
+        "instrId": "IT0005275778",
+        "venueSystem": "AFF",
+        "symbol": "NDT.MI",
+        "description": "NEODECORTECH"
+    },
+    {
+        "instrId": "IT0005545675",
+        "venueSystem": "AFF",
+        "symbol": "NTW.MI",
+        "description": "NETWEEK RAGGR"
+    },
+    {
+        "instrId": "IT0005385213",
+        "venueSystem": "AFF",
+        "symbol": "NWL.MI",
+        "description": "NEWLAT FOOD"
+    },
+    {
+        "instrId": "IT0005366767",
+        "venueSystem": "AFF",
+        "symbol": "NEXI.MI",
+        "description": "NEXI"
+    },
+    {
+        "instrId": "IT0005330516",
+        "venueSystem": "AFF",
+        "symbol": "NR.MI",
+        "description": "NEXT RE"
+    },
+    {
+        "instrId": "IT0001350625",
+        "venueSystem": "AFF",
+        "symbol": "OLI.MI",
+        "description": "OLIDATA"
+    },
+    {
+        "instrId": "IT0003683528",
+        "venueSystem": "AFF",
+        "symbol": "OJM.MI",
+        "description": "OPENJOBMETIS"
+    },
+    {
+        "instrId": "IT0005138703",
+        "venueSystem": "AFF",
+        "symbol": "ORS.MI",
+        "description": "ORSERO"
+    },
+    {
+        "instrId": "IT0005043507",
+        "venueSystem": "AFF",
+        "symbol": "OVS.MI",
+        "description": "OVS"
+    },
+    {
+        "instrId": "IT0005274094",
+        "venueSystem": "AFF",
+        "symbol": "PHN.MI",
+        "description": "PHARMANUTRA"
+    },
+    {
+        "instrId": "IT0005373789",
+        "venueSystem": "AFF",
+        "symbol": "PHIL.MI",
+        "description": "PHILOGEN"
+    },
+    {
+        "instrId": "IT0003073266",
+        "venueSystem": "AFF",
+        "symbol": "PIA.MI",
+        "description": "PIAGGIO & C"
+    },
+    {
+        "instrId": "IT0005549644",
+        "venueSystem": "AFF",
+        "symbol": "PRL.MI",
+        "description": "PIERREL"
+    },
+    {
+        "instrId": "IT0003056386",
+        "venueSystem": "AFF",
+        "symbol": "PINF.MI",
+        "description": "PININFARINA"
+    },
+    {
+        "instrId": "IT0005337958",
+        "venueSystem": "AFF",
+        "symbol": "PVN.MI",
+        "description": "PIOVAN"
+    },
+    {
+        "instrId": "IT0004240443",
+        "venueSystem": "AFF",
+        "symbol": "PQ.MI",
+        "description": "PIQUADRO"
+    },
+    {
+        "instrId": "IT0005278236",
+        "venueSystem": "AFF",
+        "symbol": "PIRC.MI",
+        "description": "PIRELLI & C."
+    },
+    {
+        "instrId": "IT0005339160",
+        "venueSystem": "AFF",
+        "symbol": "PLC.MI",
+        "description": "PLC"
+    },
+    {
+        "instrId": "IT0003796171",
+        "venueSystem": "AFF",
+        "symbol": "PST.MI",
+        "description": "POSTE ITALIANE"
+    },
+    {
+        "instrId": "IT0004176001",
+        "venueSystem": "AFF",
+        "symbol": "PRY.MI",
+        "description": "PRYSMIAN"
+    },
+    {
+        "instrId": "IT0005054967",
+        "venueSystem": "AFF",
+        "symbol": "RWAY.MI",
+        "description": "RAI WAY"
+    },
+    {
+        "instrId": "IT0004724107",
+        "venueSystem": "AFF",
+        "symbol": "RAT.MI",
+        "description": "RATTI"
+    },
+    {
+        "instrId": "IT0004931496",
+        "venueSystem": "AFF",
+        "symbol": "RCS.MI",
+        "description": "RCS MEDIAGROUP"
+    },
+    {
+        "instrId": "IT0003828271",
+        "venueSystem": "AFF",
+        "symbol": "REC.MI",
+        "description": "RECORDATI"
+    },
+    {
+        "instrId": "IT0005282865",
+        "venueSystem": "AFF",
+        "symbol": "REY.MI",
+        "description": "REPLY"
+    },
+    {
+        "instrId": "IT0005349052",
+        "venueSystem": "AFF",
+        "symbol": "RST.MI",
+        "description": "RESTART"
+    },
+    {
+        "instrId": "IT0005513202",
+        "venueSystem": "AFF",
+        "symbol": "REVO.MI",
+        "description": "REVO INSURANCE"
+    },
+    {
+        "instrId": "IT0001402269",
+        "venueSystem": "AFF",
+        "symbol": "RN.MI",
+        "description": "RISANAMENTO"
+    },
+    {
+        "instrId": "IT0001042610",
+        "venueSystem": "AFF",
+        "symbol": "SAB.MI",
+        "description": "SABAF"
+    },
+    {
+        "instrId": "IT0001029492",
+        "venueSystem": "AFF",
+        "symbol": "SG.MI",
+        "description": "SAES GETTERS"
+    },
+    {
+        "instrId": "IT0004604762",
+        "venueSystem": "AFF",
+        "symbol": "SFL.MI",
+        "description": "SAFILO GROUP"
+    },
+    {
+        "instrId": "IT0005495657",
+        "venueSystem": "AFF",
+        "symbol": "SPM.MI",
+        "description": "SAIPEM"
+    },
+    {
+        "instrId": "IT0005388266",
+        "venueSystem": "AFF",
+        "symbol": "SCF.MI",
+        "description": "SALCEF GROUP"
+    },
+    {
+        "instrId": "IT0004712375",
+        "venueSystem": "AFF",
+        "symbol": "SFER.MI",
+        "description": "SALVATORE FERRAGAMO"
+    },
+    {
+        "instrId": "IT0003549422",
+        "venueSystem": "AFF",
+        "symbol": "SL.MI",
+        "description": "SANLORENZO"
+    },
+    {
+        "instrId": "IT0000433307",
+        "venueSystem": "AFF",
+        "symbol": "SRS.MI",
+        "description": "SARAS"
+    },
+    {
+        "instrId": "IT0005438046",
+        "venueSystem": "AFF",
+        "symbol": "IOT.MI",
+        "description": "SECO"
+    },
+    {
+        "instrId": "IT0005283640",
+        "venueSystem": "AFF",
+        "symbol": "SERI.MI",
+        "description": "SERI INDUSTRIAL"
+    },
+    {
+        "instrId": "IT0003814537",
+        "venueSystem": "AFF",
+        "symbol": "SRI.MI",
+        "description": "SERVIZI ITALIA"
+    },
+    {
+        "instrId": "IT0004729759",
+        "venueSystem": "AFF",
+        "symbol": "SES.MI",
+        "description": "SESA"
+    },
+    {
+        "instrId": "IT0005262149",
+        "venueSystem": "AFF",
+        "symbol": "SIT.MI",
+        "description": "SIT"
+    },
+    {
+        "instrId": "IT0003153415",
+        "venueSystem": "AFF",
+        "symbol": "SRG.MI",
+        "description": "SNAM"
+    },
+    {
+        "instrId": "IT0001469953",
+        "venueSystem": "AFF",
+        "symbol": "SFT.MI",
+        "description": "SOFTLAB"
+    },
+    {
+        "instrId": "IT0000076536",
+        "venueSystem": "AFF",
+        "symbol": "SGF.MI",
+        "description": "SOGEFI"
+    },
+    {
+        "instrId": "IT0001206769",
+        "venueSystem": "AFF",
+        "symbol": "SOL.MI",
+        "description": "SOL"
+    },
+    {
+        "instrId": "IT0005329815",
+        "venueSystem": "AFF",
+        "symbol": "SOM.MI",
+        "description": "SOMEC"
+    },
+    {
+        "instrId": "NL00150001Q9",
+        "venueSystem": "AFF",
+        "symbol": "STLAM.MI",
+        "description": "STELLANTIS BR"
+    },
+    {
+        "instrId": "NL0000226223",
+        "venueSystem": "AFF",
+        "symbol": "STMMI.MI",
+        "description": "STMICROELECTRONICS"
+    },
+    {
+        "instrId": "IT0003153621",
+        "venueSystem": "AFF",
+        "symbol": "TIP.MI",
+        "description": "TAMBURI INC PARTN"
+    },
+    {
+        "instrId": "IT0005162406",
+        "venueSystem": "AFF",
+        "symbol": "TGYM.MI",
+        "description": "TECHNOGYM"
+    },
+    {
+        "instrId": "IT0005482333",
+        "venueSystem": "AFF",
+        "symbol": "TPRO.MI",
+        "description": "TECHNOPR"
+    },
+    {
+        "instrId": "IT0003497176",
+        "venueSystem": "AFF",
+        "symbol": "TITR.MI",
+        "description": "TELECOM IT RISP P"
+    },
+    {
+        "instrId": "IT0003497168",
+        "venueSystem": "AFF",
+        "symbol": "TIT.MI",
+        "description": "TELECOM ITALIA"
+    },
+    {
+        "instrId": "LU2598331598",
+        "venueSystem": "AFF",
+        "symbol": "TEN.MI",
+        "description": "TENARIS"
+    },
+    {
+        "instrId": "IT0003242622",
+        "venueSystem": "AFF",
+        "symbol": "TRN.MI",
+        "description": "TERNA"
+    },
+    {
+        "instrId": "IT0004585243",
+        "venueSystem": "AFF",
+        "symbol": "TES.MI",
+        "description": "TESMEC"
+    },
+    {
+        "instrId": "IT0005496473",
+        "venueSystem": "AFF",
+        "symbol": "TSL.MI",
+        "description": "TESSELLIS"
+    },
+    {
+        "instrId": "IT0005439085",
+        "venueSystem": "AFF",
+        "symbol": "TISG.MI",
+        "description": "THE IT SEA GRP"
+    },
+    {
+        "instrId": "IT0005037210",
+        "venueSystem": "AFF",
+        "symbol": "TNXT.MI",
+        "description": "TINEXTA"
+    },
+    {
+        "instrId": "IT0003007728",
+        "venueSystem": "AFF",
+        "symbol": "TOD.MI",
+        "description": "TODS"
+    },
+    {
+        "instrId": "IT0000214293",
+        "venueSystem": "AFF",
+        "symbol": "TYA.MI",
+        "description": "TOSCANA AEROPORTI"
+    },
+    {
+        "instrId": "IT0005422768",
+        "venueSystem": "AFF",
+        "symbol": "TFIN.MI",
+        "description": "TREVI FINAN IND"
+    },
+    {
+        "instrId": "IT0005001554",
+        "venueSystem": "AFF",
+        "symbol": "TB.MI",
+        "description": "TRIBOO"
+    },
+    {
+        "instrId": "IT0001454435",
+        "venueSystem": "AFF",
+        "symbol": "TXT.MI",
+        "description": "TXT"
+    },
+    {
+        "instrId": "IT0005239360",
+        "venueSystem": "AFF",
+        "symbol": "UCG.MI",
+        "description": "UNICREDIT"
+    },
+    {
+        "instrId": "IT0005573065",
+        "venueSystem": "AFF",
+        "symbol": "UD.MI",
+        "description": "UNIDATA"
+    },
+    {
+        "instrId": "IT0005239881",
+        "venueSystem": "AFF",
+        "symbol": "UNIR.MI",
+        "description": "UNIEURO"
+    },
+    {
+        "instrId": "IT0004810054",
+        "venueSystem": "AFF",
+        "symbol": "UNI.MI",
+        "description": "UNIPOL"
+    },
+    {
+        "instrId": "IT0004827447",
+        "venueSystem": "AFF",
+        "symbol": "US.MI",
+        "description": "UNIPOLSAI"
+    },
+    {
+        "instrId": "IT0001018362",
+        "venueSystem": "AFF",
+        "symbol": "VLS.MI",
+        "description": "VALSOIA"
+    },
+    {
+        "instrId": "IT0003127898",
+        "venueSystem": "AFF",
+        "symbol": "VIA.MI",
+        "description": "VIANINI"
+    },
+    {
+        "instrId": "IT0005395071",
+        "venueSystem": "AFF",
+        "symbol": "ZUC.MI",
+        "description": "VINCENZO ZUCCHI"
+    },
+    {
+        "instrId": "IT0003865570",
+        "venueSystem": "AFF",
+        "symbol": "WBD.MI",
+        "description": "WEBUILD"
+    },
+    {
+        "instrId": "IT0003865588",
+        "venueSystem": "AFF",
+        "symbol": "WBDR.MI",
+        "description": "WEBUILD RSP"
+    },
+    {
+        "instrId": "IT0005440893",
+        "venueSystem": "AFF",
+        "symbol": "WIIT.MI",
+        "description": "WIIT"
+    },
+    {
+        "instrId": "IT0004171440",
+        "venueSystem": "AFF",
+        "symbol": "ZV.MI",
+        "description": "ZIGNAGO VETRO"
+    }
+]
